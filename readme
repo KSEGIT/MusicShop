@@ -1,0 +1,14 @@
+working only on mac/linux
+
+CST2550 Coursework 1
+MDX 2021 
+Daniel Kiska
+
+Scenario
+A music shop sells CDs, DVDs, magazines and books. It is in need of a stock management system to maintain stock records with a text (command line) menu with options to allow the user to perform the following functionality:
+• sell items
+• restock items (increase stock quantity)
+• add new items
+• update stock quantity (correct stock levels)
+• view a report of sales
+It should also be possible to load and save the stock data to/from a file.

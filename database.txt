@@ -1,0 +1,11 @@
+1 book1 book 100 0 12.000000
+2 book2 book 100 5 12.000000
+3 book3 book 65 35 12.000000
+4 book4 book 95 5 12.000000
+5 book5 book 78 22 12.000000
+6 cdAlbum1 cdalbum 21 0 12.000000
+7 cdAlbum2 cdalbum 34 5 12.000000
+8 cdAlbum3 cdalbum 65 35 12.000000
+9 movie1 dvdalbum 21 0 12.000000
+10 magazine1 magazine 100 0 12.000000
+55 book55 book 100 0 25.000000
